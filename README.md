@@ -1,1 +1,4 @@
-# SimpleSb thank god for giving me so much enjoyment
+# SimpleSb
+Update 24 Januari 2021
+Add Template
+Add Footer
